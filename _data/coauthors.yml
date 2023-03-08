@@ -1,7 +1,24 @@
+"Bommier":
+  - firstname: [Antoine]
+    url: https://mtec.ethz.ch/people/person-detail.MTczOTI4.TGlzdC8yODk2LC0yMDgyMjgwMDQ4.html
+
+"Coqueret":
+  - firstname: [Guillaume]
+    url: http://www.gcoqueret.com/
+
+"Le Courtois":
+  - firstname: ["Olivier"]
+    url: https://olivierlecourtois.com/
+
 "Le Grand":
   - firstname: ["Francois", "François"]
     url: https://francois-le-grand.com/
 
-"Bommier":
-  - firstname: [Antoine]
-    url: https://mtec.ethz.ch/people/person-detail.MTczOTI4.TGlzdC8yODk2LC0yMDgyMjgwMDQ4.html
+"Schneider":
+  - firstname: [Lorenz]
+    url: https://scholar.google.co.uk/citations?user=2TwEDZ0AAAAJ&hl=fr
+
+"Tavin":
+  - firstname: [Bertrand]
+    url: http://btavin.com/
+

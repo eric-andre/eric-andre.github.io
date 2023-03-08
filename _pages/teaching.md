@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Description and materials for courses. Under construction.
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 
 <h3>emlyon business school, MSc in Management</h3>
