@@ -9,12 +9,15 @@
 - title: Academic Employment
   type: time_table
   contents:
+    - title: Associate Professor
+      institution: emlyon business school
+      year: since 2023
     - title: Head of the Quantitative Finance & Economics department
       institution: emlyon business school
       year: since 2022
     - title: Assistant Professor
       institution: emlyon business school
-      year: since 2015
+      year: 2015 - 2023
     - title: Lecturer (Attaché Temporaire d’Enseignement et de Recherche)
       institution: Aix- Marseille University, Faculty of Economics and Management
       year: 2013 - 2015
@@ -29,7 +32,7 @@
       institution: Aix-Marseille University, Aix-Marseille School of Economics (UMR 7316)
       year: 2014
       description:
-        - Three essays on the generalisation of mean–variance preferences to ambiguity. With highest honours.
+        - <a href='https://www.theses.fr/2014AIXM2019'>Three essays on the generalisation of mean–variance preferences to ambiguity</a>. With highest honours.
         - "Jury: Profs. Philippe Bertrand, André Lapied (supervisor), Olivier Le Courtois (referee), Jean-Luc Prigent (referee) and Patrick Rousseau (chairman)."
     - title: Research Master in Economics
       institution: Aix-Marseille University
@@ -62,7 +65,7 @@
       institution: Crédit Commercial de France, Department of Rates and Foreign Exchange Markets.
       year: 1997 - 2000
     - title: Midshipman
-      institution: French Navy, Centre commandant Millé
+      institution: French Navy, Centre Commandant Millé
       year: 1996 - 1997
       description:
         - Military duty as a midshipman in a scientific assignment.

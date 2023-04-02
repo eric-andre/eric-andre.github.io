@@ -6,9 +6,13 @@
   - firstname: [Guillaume]
     url: http://www.gcoqueret.com/
 
+"Faroni":
+  - firstname: [Silvia]
+    url: https://linkedin.com/in/silviafaroni/
+
 "Le Courtois":
   - firstname: ["Olivier"]
-    url: https://olivierlecourtois.com/
+    url: https://em-lyon.com/en/olivier-le-courtois/briefly
 
 "Le Grand":
   - firstname: ["Francois", "François"]
@@ -17,6 +21,10 @@
 "Schneider":
   - firstname: [Lorenz]
     url: https://scholar.google.co.uk/citations?user=2TwEDZ0AAAAJ&hl=fr
+
+"Su":
+  - firstname: [Xiaoshan]
+    url: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3834496
 
 "Tavin":
   - firstname: [Bertrand]
