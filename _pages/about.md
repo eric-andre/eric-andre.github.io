@@ -21,3 +21,4 @@ social: true  # includes social icons at the bottom of the page
 <p>I hold a diplôme d’Ingénieur (MEng) from École Centrale Paris with a concentration in Applied Mathematics and a PhD in Economics from Aix-Marseille University.</p>
 <p>At emlyon business school I teach Quantitative Finance and Statistics courses, both in emlyon’s <a href='https://masters.em-lyon.com/en/msc-in-management-grande-ecole'>Master in Management</a> and in its <a href='https://masters.em-lyon.com/en/msc-finance-en'>MSc in Finance</a>.</p>
 <p>I am a member of the <a href='https://aim.em-lyon.com/quant/'>QUANT</a> research center. My research focuses on applications of decision theory under ambiguity ‒with its links to Bayesian and robust statistics‒ to the management of risks related to financial markets. I also have a keen interest in statistical arbitrage and in applications of machine learning to finance.</p>
+<br>
