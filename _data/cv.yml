@@ -1,8 +1,10 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Eric André
+    - name: Full name
+      value: Eric ANDRÉ
+    - name: Nationality
+      value: French
     - name: Languages
       value: French, English
 
@@ -51,7 +53,7 @@
       institution: HSBC Bank plc, Global Banking & Markets. London, UK
       year: 2005 - 2009
       description:
-        - In charge of the options and structured products trading activities based in London.
+        - In charge of the London-based interest rates options and structured products trading desks.
     - title: Head of the euro interest rates options trading desk
       institution: WestLB AG, London Branch, Global Financial Markets. London, UK
       year: 2003 - 2005
@@ -70,12 +72,16 @@
       description:
         - Military duty as a midshipman in a scientific assignment.
 
-- title: 
+- title: Quotes
   type: list
   contents: 
     - <blockquote>
       <p>Markets look a lot less efficient from the banks of the Hudson than from the banks of the Charles.</p>
-      <p>Fisher Black</p>
+      <p><a href='https://books.google.fr/books?id=uTje6PYAijUC&pg=PA7&lpg=PA6#v=twopage&q&f=false'>Fisher Black</p>
+      </blockquote>
+    - <blockquote>
+      <p>I was never a pure efficient marketer, even in the 1980s when I was Gene Fama’s Ph.D. student (my dissertation on the success of price momentum was a hint!). Living through the tech bubble, the global financial crisis, and the insane trouncing of value stocks from 2018 to 2020 led me to drift even further away from pure market efficiency. I still think markets are the best way for society to allocate capital, but that’s as much about how bad nonmarket alternatives are.</p>
+      <p><a href='https://www.institutionalinvestor.com/article/2bstqfcskz9o72ospzlds/opinion/why-does-private-equity-get-to-play-make-believe-with-prices'>Cliff Asness</p>
       </blockquote>
     - <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">My God I wish I wrote this tweet.<br><br>Sorry Gene you were wrong, markets are idiotic. You’re still the best though. <a href="https://t.co/JJpvOoA9cj">https://t.co/JJpvOoA9cj</a></p>&mdash; Clifford Asness (@CliffordAsness) <a href="https://twitter.com/CliffordAsness/status/1639233089262985219?ref_src=twsrc%5Etfw">March 24, 2023</a></blockquote>
       <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
