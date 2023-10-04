@@ -8,10 +8,10 @@ nav: true
 nav_order: 2
 ---
 <!-- _pages/workingpapers.md -->
-<div class="publications">
-<h2>submitted</h2>
+[//]: <div class="publications">
+[//]: <h2>submitted</h2>
 {% bibliography -f submitted %}
-</div>
+[//]: </div>
 
 <div class="publications">
 <h2>work in progress</h2>
