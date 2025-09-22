@@ -18,10 +18,10 @@ nav_order: 3
 <h3>emlyon business school, MSc in Finance</h3>
 <ul>
 <li>since 2015 &nbsp;&nbsp;<pre> Statistical analysis of financial time series with Python.</pre></li>
+<li>since 2024  (and 2015 – 2018)&nbsp;&nbsp;<pre>Quantitative Risk Management.</pre></li>
 <li>2019 – 2022 &nbsp;&nbsp;Statistics for business using Excel.</li>
 <li>2019 – 2022 &nbsp;&nbsp;Introduction to data analytics.</li>
 <li>2019 – 2020 &nbsp;&nbsp;Portfolio Management.</li>
-<li>2015 – 2018 &nbsp;&nbsp;Quantitative Risk Management.</li>
 <li>2015 – 2016 &nbsp;&nbsp;Financial mathematics.</li>
 </ul>
 

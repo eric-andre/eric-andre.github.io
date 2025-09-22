@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p>Associate Professor at <a href='https://em-lyon.com/'>emlyon business school</a>. Head of the Quantitative Finance & Economics department.</p>
+subtitle: <p>Associate Professor at <a href='https://em-lyon.com/'>emlyon business school</a>.</p>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 2025-03-ANDRE Eric-09d.png
   image_circular: false # crops the image to make it circular
   address: >
-    office B-1013</p>
-    <p><a href='https://em-lyon.com/en/about-emlyon-business-school/campuses-and-learning-environments/our-campuses/lyon-ecully-campus'>Lyon-Ecully campus</a></p>
+    building A - 3rd floor</p>
+    <p><a href='https://em-lyon.com/en/campus/lyon'>Lyon campus</a></p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
