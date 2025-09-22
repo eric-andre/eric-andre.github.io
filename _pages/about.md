@@ -3,7 +3,6 @@ layout: about
 title: about
 permalink: /
 subtitle: <p>Associate Professor at <a href='https://em-lyon.com/'>emlyon business school</a>.</p>
-subtitle: <p>Associate Professor at <a href='https://em-lyon.com/'>emlyon business school</a>.</p>
 
 profile:
   align: right
