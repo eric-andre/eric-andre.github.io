@@ -18,6 +18,7 @@ group :jekyll_plugins do
     gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
+    gem 'uri', '>= 0.10.1', '< 2.0', :require => false
 end
 group :other_plugins do
     gem 'feedjira'
